@@ -24,5 +24,5 @@ It tries to move colored balls between tubes, tracking visited states to avoid l
 
 ## 🛠️ Requirements
 
-- Python 3.7+
+- Python 3.7+.
 - No external libraries needed (uses `tkinter`, built-in in Python)
